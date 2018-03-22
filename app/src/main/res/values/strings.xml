@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KC Restaurant</string>
+
+    <string name="chille">chille</string>
+    <string name="vegetable">vegetable</string>
+    <string name="egg">egg</string>
+    <string name="oil">oil</string>
+    <string name="here">eat here</string>
+    <string name="home">go home</string>
+    <string name="where">Where do you want to eat?</string>
+    <string name="need">What you don\'t need?</string>
+    <string name="st" />
+</resources>
